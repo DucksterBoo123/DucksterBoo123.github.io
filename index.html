@@ -1,0 +1,54 @@
+---
+layout: default
+title: Home
+---
+
+<div class="image">
+    <script type="text/javascript">
+        var imlocation = "assets/img/";
+        var currentdate = 0;
+        var image_number = 0;
+        function ImageArray (n) {
+            this.length = n;
+            for (var i =1; i <= n; i++) {
+            this[i] = ' '
+            }
+        }
+        image = new ImageArray(3)
+        image[0] = '1.png'
+        image[1] = '2.jpg'
+        image[2] = '3.png'
+        var rand = 60/image.length
+        function randomimage() {
+             currentdate = new Date()
+             image_number = currentdate.getSeconds()
+             image_number = Math.floor(image_number/rand)
+             return(image[image_number])
+        }
+        document.write("<img src='" + imlocation + randomimage()+ "'>");
+    </script>
+</div>
+
+<!-- <div class="image">
+    <img src="assets/img/m4comp3.png">
+</div> -->
+
+<!-- <h1>YO <br> killers <br> in the <br> JUNGLE</h1> -->
+<div class="text">
+        <h1>Ibrahim Khan<br></h1>
+        <h2>A-Level Student Located in London</h2>
+        <h3>Interested in:<br></h3>
+        <div class="list">
+            <li><div class="listlink"><a href="/3dfx.html">3D Modelling & Design</a></div>
+            <li><div class="listlink"><a href="https://github.com/DucksterBoo123" target="_blank">Computer Science</a></div>
+            <li><div class="listlink"><a href="https://open.spotify.com/playlist/5sP3ls5A0xJqHF4OJiu5gi?si=b3feea301ff04159" target="_blank">Music Production</a></div>
+            <li><div class="listlink"><a href="/motorsport.html">Motorsport</a></div>
+            <li><a>Aviation</a></li>
+            <br>
+        </div>
+    <div class="social">
+        <a href="https://github.com/DucksterBoo123" target="_blank">Github</a> &nbsp;
+        <a href="mailto: ibrahimkh05@icloud.com">Email</a> &nbsp;
+        <a href="/assets/files/CV.pdf" target="_blank">My CV</a>
+    </div>
+</div>
