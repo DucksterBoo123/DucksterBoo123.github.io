@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-toc
+
+excerpt_seperator: "<!--more-->"
