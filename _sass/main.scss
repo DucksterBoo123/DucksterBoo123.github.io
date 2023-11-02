@@ -13,6 +13,10 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+
+    image:hover {
+            color: rgba(0,0,0,0);
+    }
 }
 
 .text {
