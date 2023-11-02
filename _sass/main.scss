@@ -20,6 +20,14 @@ body {
     }
 }
 
+.script {
+    opacity: 0.5;
+
+    script:hover {
+        opacity: 0;
+    }
+}
+
 .text {
     text-align: center;
 
