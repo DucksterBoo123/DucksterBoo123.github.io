@@ -47,31 +47,7 @@ renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
 camera.position.z = 5;
-/*
-const gridX = new THREE.GridHelper(20, 100);
-gridX.rotation.y = 1.571
-gridX.position.y = -1
-scene.add(gridX)
 
-const gridYBack = new THREE.GridHelper(20, 100);
-gridYBack.rotation.z = 1.571
-gridYBack.rotation.y = 1.571
-gridYBack.position.z = -10
-gridYBack.position.y = 9
-scene.add(gridYBack)
-
-const gridYRight = new THREE.GridHelper(20, 100);
-gridYRight.rotation.z = 1.571
-gridYRight.position.y = 9
-gridYRight.position.x = 10
-scene.add(gridYRight)
-
-const gridYLeft = new THREE.GridHelper(20, 100);
-gridYLeft.rotation.z = 1.571
-gridYLeft.position.y = 9
-gridYLeft.position.x = -10
-scene.add(gridYLeft)
-*/
 const light = new THREE.DirectionalLight(0x404040, 100);
 scene.add( light );
 
