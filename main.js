@@ -47,7 +47,7 @@ renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
 camera.position.z = 5;
-
+/*
 const gridX = new THREE.GridHelper(20, 100);
 gridX.rotation.y = 1.571
 gridX.position.y = -1
@@ -71,7 +71,7 @@ gridYLeft.rotation.z = 1.571
 gridYLeft.position.y = 9
 gridYLeft.position.x = -10
 scene.add(gridYLeft)
-
+*/
 const light = new THREE.DirectionalLight(0x404040, 100);
 scene.add( light );
 
@@ -94,14 +94,13 @@ function animate() {
 	requestAnimationFrame( animate );
 
     if (model) {
-        /*
+
         model.rotation.y = mouse.x;
         model.rotation.x = -mouse.y;
         model.position.x = mouse.x;
-        model.position.y = -mouse.y;
-        */
-       model.rotation.y = mouse.x;
-       
+        model.position.y = -mouse.y - 0.5;
+        
+       //model.rotation.y = mouse.x;
     }
 	renderer.render( scene, camera );
 }
