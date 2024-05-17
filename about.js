@@ -56,13 +56,16 @@ const projects = document.getElementById('projects');
 projects.style.top = '50px';
 projects.style.left = '1250px';
 
+const body = document.getElementById('body');
+body.style.top = '625px';
+body.style.left = '275px';
+
 const secretMessage = document.getElementById('secretMessage');
 secretMessage.style.top = '67px';
 secretMessage.style.left = '600px';
 
 //----------------------------------------------3D BUSINESS------------------------------------------------//
-
-var model;
+/*
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
@@ -76,21 +79,6 @@ camera.position.z = 5;
 
 const light = new THREE.DirectionalLight(0x404040, 100);
 scene.add( light );
-
-const passatLoader = new GLTFLoader();
-
-passatLoader.load( 'passat.glb', function ( gltf ) {
-
-    gltf.scene.position.y = -1;
-    gltf.scene.scale.set(1, 1, 1);
-    model = gltf.scene;
-	scene.add( model );
-
-}, undefined, function ( error ) {
-
-	console.error( error );
-
-} );
 
 //--------------------------------------------ANIMATE--------------------------------------------------//
 
@@ -109,6 +97,7 @@ function animate() {
 	renderer.render( scene, camera );
 }
 animate();
+*/
 
 //---------------------------------------------MOUSE EVENTS-------------------------------------------------//
 
