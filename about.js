@@ -1,6 +1,4 @@
 import * as THREE from 'three';
-import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
-import { CSS2DObject } from 'three/examples/jsm/Addons.js';
 
 //---------------------------------------MOUSE INTERACTION BACKEND-------------------------------------------------------//
 
