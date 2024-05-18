@@ -44,15 +44,15 @@ name.style.left = `100px`;
 
 const home = document.getElementById('home');
 home.style.top = '50px';
-home.style.left = '1000px';
+home.style.right = `400px`;
 
 const about = document.getElementById('about');
 about.style.top = '50px';
-about.style.left = '1125px';
+about.style.right = `250px`;
 
 const projects = document.getElementById('projects');
-projects.style.top = '50px';
-projects.style.left = '1250px';
+projects.style.top = `50px`;
+projects.style.right = `100px`;
 
 const body = document.getElementById('body');
 body.style.top = '625px';
