@@ -44,7 +44,7 @@ name.style.left = `100px`;
 
 const home = document.getElementById('home');
 home.style.top = '50px';
-home.style.right = `400px`;
+home.style.right = `380px`;
 
 const about = document.getElementById('about');
 about.style.top = '50px';
