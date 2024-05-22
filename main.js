@@ -97,7 +97,7 @@ function animate() {
 	requestAnimationFrame( animate );
 
     if (model) {
-
+        model.position.y = -0.5;
         model.rotation.y = mouse.x;
         model.rotation.x = -mouse.y;
         //model.position.x = mouse.x;
