@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { rotate } from 'three/examples/jsm/nodes/Nodes.js';
 
 //---------------------------------------MOUSE INTERACTION BACKEND-------------------------------------------------------//
 
@@ -37,31 +37,17 @@ function manageRaycasterIntersections(scene, camera) {
 
 //------------------------------------------HTML MANIPULATION----------------------------------------------------//
 
-const canvas = document.querySelector('canvas');
+//const canvas = document.querySelector('canvas');
 
-const name = document.getElementById('name');
-name.style.top = `50px`;
-name.style.left = `100px`;
+//const name = document.getElementById('name');
+//name.style.top = `50px`;
+//name.style.left = `100px`;
 
-const home = document.getElementById('home');
-home.style.top = '50px';
-home.style.right = `380px`;
-
-const about = document.getElementById('about');
-about.style.top = '50px';
-about.style.right = `250px`;
-
-const projects = document.getElementById('projects');
-projects.style.top = `50px`;
-projects.style.right = `100px`;
-
-const secretMessage = document.getElementById('secretMessage');
-secretMessage.style.top = '67px';
-secretMessage.style.left = '600px';
+//const addCSS = css => document.head.appendChild(document.createElement("style")).innerHTML=css;
+//addCSS("img {width: 400px; height: 400px; transform: translate(" + x2 + "px, " + y2 + "px);}")
 
 //----------------------------------------------3D BUSINESS------------------------------------------------//
-
-var model;
+/*
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
@@ -76,28 +62,13 @@ camera.position.z = 5;
 const light = new THREE.DirectionalLight(0x404040, 100);
 scene.add( light );
 
-const passatLoader = new GLTFLoader();
-
-passatLoader.load( 'passat.glb', function ( gltf ) {
-
-    gltf.scene.position.y = -1;
-    gltf.scene.scale.set(1, 1, 1);
-    model = gltf.scene;
-	scene.add( model );
-
-}, undefined, function ( error ) {
-
-	console.error( error );
-
-} );
-
 //--------------------------------------------ANIMATE--------------------------------------------------//
 
 function animate() {
 	requestAnimationFrame( animate );
 
     if (model) {
-        model.position.y = -0.5;
+
         model.rotation.y = mouse.x;
         model.rotation.x = -mouse.y;
         //model.position.x = mouse.x;
@@ -108,6 +79,7 @@ function animate() {
 	renderer.render( scene, camera );
 }
 animate();
+*/
 
 //---------------------------------------------MOUSE EVENTS-------------------------------------------------//
 
