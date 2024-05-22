@@ -1,5 +1,4 @@
 import * as THREE from 'three';
-import { rotate } from 'three/examples/jsm/nodes/Nodes.js';
 
 //---------------------------------------MOUSE INTERACTION BACKEND-------------------------------------------------------//
 
@@ -55,23 +54,12 @@ const projects = document.getElementById('projects');
 projects.style.top = `50px`;
 projects.style.right = `100px`;
 
-/*
-var x = Math.random() * (500 - 1) + 1;
-var y = Math.random() * (70 - 700) + 700;
-var r = Math.random() * (30 - -30) + -30;
-
-body.style.top = y + 'px';
-body.style.left = x + 'px';
-body.style.transform = 'rotate(' + r + 'deg)';
-*/
-
 const secretMessage = document.getElementById('secretMessage');
 secretMessage.style.top = '67px';
 secretMessage.style.left = '600px';
 
 
 //const addCSS = css => document.head.appendChild(document.createElement("style")).innerHTML=css;
-//addCSS("img {width: 400px; height: 400px; transform: translate(" + x2 + "px, " + y2 + "px);}")
 
 //----------------------------------------------3D BUSINESS------------------------------------------------//
 /*
