@@ -99,6 +99,7 @@
 				top: 70%;
 				left: 50%;
                 transform: translate(-50%, -50%);
+				white-space: nowrap;
 			}
 			.body2 {
 				position: absolute;
@@ -131,18 +132,18 @@
 
 		<div id="body" class="body">
             I am an 18 year old
-			<span id="changing" style="color: black; text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red">
+			<span id="changing" style="color: white">
 				Computer Science
 			</span> 
 			student located in London.
         </div>
 		<div id="body2" class="body2">
-			I enjoy:
+			My interests are:
 		</div>
 		<div id="list" class="list">
 			<ul>
-				<li>Karting</li>
-				<li>Full Stack Development</li>
+				<li>Kart & Sim Racing</li>
+				<li>Software Development</li>
 				<li>Working on my BMW E90</li>
 			</ul>
 		</div>
@@ -165,7 +166,7 @@
 			// Function that executes every 2000 milliseconds 
 			var t = setInterval(function() { 
 			  $('#changing').html( words[ ib ] ); 
-			  if(ib < 2){ib = ib + 1}
+			  if(ib < 2){ib = ib + 1;}
 			  else if(ib = 2){ib = 0;} 
 			}, 3000); 
 			</script> 
