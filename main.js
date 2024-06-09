@@ -1,4 +1,6 @@
 import * as THREE from 'three';
+import { ThreeMFLoader } from 'three/examples/jsm/Addons.js';
+import { PI } from 'three/examples/jsm/nodes/Nodes.js';
 
 //---------------------------------------MOUSE INTERACTION BACKEND-------------------------------------------------------//
 
@@ -43,13 +45,18 @@ const renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
+let video = document.getElementById("video");
+let videoTexture = new THREE.VideoTexture(video);
+videoTexture.minFilter = THREE.NearestFilter;
+videoTexture.maxFilter = THREE.NearestFilter;
+
 const textureLoader = new THREE.TextureLoader();
 
 const geometry = new THREE.BoxGeometry( 2.5, 2.5, 2.5 );
 //const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 const texture = [
     new THREE.MeshBasicMaterial({
-        map: textureLoader.load("assets/1.jpg"),
+        map: textureLoader.load("assets/underCar.jpg"),
     }),
     new THREE.MeshBasicMaterial({
         map: textureLoader.load("assets/kartGoing.png"),
@@ -61,59 +68,63 @@ const texture = [
         color : 0x000000
     }),
     new THREE.MeshBasicMaterial({
-        map: textureLoader.load("assets/3.png"),
+        map: videoTexture,
     }),
     new THREE.MeshBasicMaterial({
         color : 0x000000
     }),
 ]
 
+video.play();
 const cube = new THREE.Mesh( geometry, texture );
 scene.add( cube );
 
 camera.position.z = 5;
+
+//-------------------
+
+var listTitle = document.getElementById("body2");
+var topPercentListTitle = 105;
+listTitle.style.top = "105%";
+
+var list = document.getElementById("list");
+var topPercentList = 113;
+list.style.top = "113%";
+
+var title = document.getElementById("body");
+var topPercentTitle = 80;
+title.style.top = "80%";
+
+//-------------------
 
 function animate() {
 	requestAnimationFrame( animate );
 
     cube.position.y = 0.6;
 
-    if(mouse.y <= 0.6 && mouse.y >= -0.26)
+    if(topPercentListTitle != 77)
     {
-        cube.rotation.y = mouse.x;
-        cube.position.x = mouse.x;
-    }
-    
-    if(cube.rotation.y != 0)
-    {
-        if(cube.rotation.y > 0.03)
+        if(mouse.y < -0.5)
         {
-            cube.rotation.y -= 0.05;
-        }
-        else if(cube.rotation.y < -0.03)
-        {
-            cube.rotation.y += 0.05;
+            topPercentListTitle -= 1;
+            listTitle.style.top = topPercentListTitle + "%"; 
         }
     }
-    else if(cube.rotation.y = 0)
+    if(topPercentList != 85)
     {
-        cube.rotation.y = 0;
-    }
-    
-    if(cube.position.x != 0)
-    {
-        if(cube.position.x > 0.03)
+        if(mouse.y < -0.5)
         {
-            cube.position.x -= 0.05;
-        }
-        else if(cube.position.x < -0.03)
-        {
-            cube.position.x += 0.05;
+            topPercentList -= 1;
+            list.style.top = topPercentList + "%";   
         }
     }
-    else if(cube.position.x = 0)
+    if(topPercentTitle != 70)
     {
-        cube.position.x = 0;
+        if(mouse.y < -0.5)
+        {
+            topPercentTitle -= 1;
+            title.style.top = topPercentTitle + "%";
+        }
     }
 
 	renderer.render( scene, camera );
@@ -121,10 +132,12 @@ function animate() {
 
 animate();
 
+//-------------------
+
 //---------------------------------------------MOUSE EVENTS-------------------------------------------------//
 
 function onMouseDown(event){
-   
+    
 }
 
 function onMouseUp(event){
