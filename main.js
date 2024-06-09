@@ -49,7 +49,7 @@ const geometry = new THREE.BoxGeometry( 2.5, 2.5, 2.5 );
 //const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 const texture = [
     new THREE.MeshBasicMaterial({
-        map: textureLoader.load("assets/underCar.jpg"),
+        map: textureLoader.load("assets/1.jpg"),
     }),
     new THREE.MeshBasicMaterial({
         map: textureLoader.load("assets/kartGoing.png"),
@@ -61,7 +61,7 @@ const texture = [
         color : 0x000000
     }),
     new THREE.MeshBasicMaterial({
-        map: textureLoader.load("assets/meDawg.png"),
+        map: textureLoader.load("assets/3.png"),
     }),
     new THREE.MeshBasicMaterial({
         color : 0x000000
