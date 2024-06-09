@@ -45,21 +45,16 @@ const renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
-let video = document.getElementById("video");
-let videoTexture = new THREE.VideoTexture(video);
-videoTexture.minFilter = THREE.NearestFilter;
-videoTexture.maxFilter = THREE.NearestFilter;
-
 const textureLoader = new THREE.TextureLoader();
 
 const geometry = new THREE.BoxGeometry( 2.5, 2.5, 2.5 );
 //const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 const texture = [
     new THREE.MeshBasicMaterial({
-        map: textureLoader.load("assets/underCar.jpg"),
+        color : 0x000000
     }),
     new THREE.MeshBasicMaterial({
-        map: textureLoader.load("assets/kartGoing.png"),
+        color : 0x000000
     }),
     new THREE.MeshBasicMaterial({
         color : 0x000000
@@ -68,14 +63,13 @@ const texture = [
         color : 0x000000
     }),
     new THREE.MeshBasicMaterial({
-        map: videoTexture,
+        color : 0xFFFFFF
     }),
     new THREE.MeshBasicMaterial({
         color : 0x000000
     }),
 ]
 
-video.play();
 const cube = new THREE.Mesh( geometry, texture );
 scene.add( cube );
 
@@ -102,30 +96,42 @@ function animate() {
 
     cube.position.y = 0.6;
 
-    if(topPercentListTitle != 77)
+    if(mouse.y < -0.5)
     {
-        if(mouse.y < -0.5)
+        if(topPercentListTitle != 77)
         {
-            topPercentListTitle -= 1;
+            topPercentListTitle -= 2;
             listTitle.style.top = topPercentListTitle + "%"; 
         }
-    }
-    if(topPercentList != 85)
-    {
-        if(mouse.y < -0.5)
+        if(topPercentList != 85)
         {
-            topPercentList -= 1;
+            topPercentList -= 2;
             list.style.top = topPercentList + "%";   
         }
-    }
-    if(topPercentTitle != 70)
-    {
-        if(mouse.y < -0.5)
+        if(topPercentTitle != 70)
         {
             topPercentTitle -= 1;
             title.style.top = topPercentTitle + "%";
         }
     }
+    if(mouse.y > -0.5)
+    {
+        if(topPercentListTitle != 105)
+        {
+            topPercentListTitle += 2;
+            listTitle.style.top = topPercentListTitle + "%"; 
+        }
+        if(topPercentList != 113)
+        {
+            topPercentList += 2;
+            list.style.top = topPercentList + "%";   
+        }
+        if(topPercentTitle != 85)
+        {
+            topPercentTitle += 1;
+            title.style.top = topPercentTitle + "%";
+        }
+    } 
 
 	renderer.render( scene, camera );
 }

@@ -51,40 +51,32 @@ const renderer = new THREE.WebGLRenderer({antialias: true});
 renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
+let video = document.getElementById("video");
+let videoTexture = new THREE.VideoTexture(video);
+videoTexture.minFilter = THREE.NearestFilter;
+videoTexture.maxFilter = THREE.NearestFilter;
+
+var videoMaterial = new THREE.MeshBasicMaterial({
+    map: videoTexture,
+    side: THREE.FrontSide,
+});
+
+let videoGeometry = new THREE.PlaneGeometry(16, 9);
+
+let videoScreen = new THREE.Mesh(videoGeometry, videoMaterial);
+
+video.play();
+scene.add(videoScreen);
+
 camera.position.z = 5;
-
-const light = new THREE.DirectionalLight(0x404040, 100);
-scene.add( light );
-
-const passatLoader = new GLTFLoader();
-
-passatLoader.load( 'passat.glb', function ( gltf ) {
-
-    gltf.scene.position.y = -1;
-    gltf.scene.scale.set(1, 1, 1);
-    model = gltf.scene;
-	scene.add( model );
-
-}, undefined, function ( error ) {
-
-	console.error( error );
-
-} );
 
 //--------------------------------------------ANIMATE--------------------------------------------------//
 
 function animate() {
 	requestAnimationFrame( animate );
 
-    if (model) {
-        model.position.y = -0.5;
-        model.rotation.y = mouse.x;
-        model.rotation.x = -mouse.y;
-        //model.position.x = mouse.x;
-        //model.position.y = -mouse.y - 0.5;
-        
-       //model.rotation.y = mouse.x;
-    }
+    videoTexture.needsUpdate = true;
+
 	renderer.render( scene, camera );
 }
 animate();
