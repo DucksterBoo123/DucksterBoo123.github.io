@@ -1,6 +1,4 @@
 import * as THREE from 'three';
-import { ThreeMFLoader } from 'three/examples/jsm/Addons.js';
-import { PI } from 'three/examples/jsm/nodes/Nodes.js';
 
 //---------------------------------------MOUSE INTERACTION BACKEND-------------------------------------------------------//
 
