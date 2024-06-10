@@ -94,13 +94,13 @@ const camYPoints = [0, -12, -28]
 
 function wheelFunction(event) {
 
-    if(event.deltaY > 0 && camera.position.y < 0)
+    if(event.deltaY < 0 && camera.position.y < 0)
     {
         camera.position.y += 1;
         console.log(camera.position.y);
     }
 
-    if(event.deltaY < 0 && camera.position.y > -28)
+    if(event.deltaY > 0 && camera.position.y > -28)
     {
         camera.position.y -= 1;
         console.log(camera.position.y);
