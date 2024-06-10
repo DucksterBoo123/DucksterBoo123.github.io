@@ -34,9 +34,7 @@ function manageRaycasterIntersections(scene, camera) {
     }
 }
 
-//------------------------------------------HTML MANIPULATION----------------------------------------------------//
-
-
+addEventListener("wheel", wheelFunction);
 
 //----------------------------------------------3D BUSINESS------------------------------------------------//
 
@@ -50,22 +48,64 @@ const renderer = new THREE.WebGLRenderer({antialias: true});
 renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
-let video = document.getElementById("video");
-let videoTexture = new THREE.VideoTexture(video);
-videoTexture.minFilter = THREE.NearestFilter;
-videoTexture.maxFilter = THREE.NearestFilter;
-
-var videoMaterial = new THREE.MeshBasicMaterial({
-    map: videoTexture,
+let carVideo = document.getElementById("carVideo");
+let carVideoTexture = new THREE.VideoTexture(carVideo);
+carVideoTexture.colorSpace = THREE.SRGBColorSpace;
+carVideoTexture.magFilter = THREE.LinearFilter;
+carVideoTexture.minFilter = THREE.LinearFilter;
+var carVideoMaterial = new THREE.MeshBasicMaterial({
+    map: carVideoTexture,
     side: THREE.FrontSide,
 });
+let carVideoGeometry = new THREE.PlaneGeometry(16, 9);
+let carVideoScreen = new THREE.Mesh(carVideoGeometry, carVideoMaterial);
+carVideo.play();
+scene.add(carVideoScreen);
 
-let videoGeometry = new THREE.PlaneGeometry(16, 9);
+let switchVideo = document.getElementById("switchVideo");
+let switchVideoTexture = new THREE.VideoTexture(switchVideo);
+switchVideoTexture.colorSpace = THREE.SRGBColorSpace;
+switchVideoTexture.magFilter = THREE.LinearFilter;
+switchVideoTexture.minFilter = THREE.LinearFilter;
+var switchVideoMaterial = new THREE.MeshBasicMaterial({
+    map: switchVideoTexture,
+    side: THREE.FrontSide,
+});
+let switchVideoGeometry = new THREE.PlaneGeometry(16, 16);
+let switchVideoScreen = new THREE.Mesh(switchVideoGeometry, switchVideoMaterial);
+switchVideo.play();
+scene.add(switchVideoScreen);
 
-let videoScreen = new THREE.Mesh(videoGeometry, videoMaterial);
+let waveVideo = document.getElementById("waveVideo");
+let waveVideoTexture = new THREE.VideoTexture(waveVideo);
+waveVideoTexture.colorSpace = THREE.SRGBColorSpace;
+waveVideoTexture.magFilter = THREE.LinearFilter;
+waveVideoTexture.minFilter = THREE.LinearFilter;
+var waveVideoMaterial = new THREE.MeshBasicMaterial({
+    map: waveVideoTexture,
+    side: THREE.FrontSide,
+});
+let waveVideoGeometry = new THREE.PlaneGeometry(16, 16);
+let waveVideoScreen = new THREE.Mesh(waveVideoGeometry, waveVideoMaterial);
+waveVideo.play();
+scene.add(waveVideoScreen);
 
-video.play();
-scene.add(videoScreen);
+const camYPoints = [0, -12, -28]
+
+function wheelFunction(event) {
+
+    if(event.deltaY > 0 && camera.position.y < 0)
+    {
+        camera.position.y += 1;
+        console.log(camera.position.y);
+    }
+
+    if(event.deltaY < 0 && camera.position.y > -28)
+    {
+        camera.position.y -= 1;
+        console.log(camera.position.y);
+    }
+}
 
 camera.position.z = 5;
 
@@ -74,7 +114,11 @@ camera.position.z = 5;
 function animate() {
 	requestAnimationFrame( animate );
 
-    videoTexture.needsUpdate = true;
+    switchVideoScreen.position.y = -12.5;
+    waveVideoScreen.position.y = -28.5;
+    switchVideoTexture.needsUpdate = true;
+    carVideoTexture.needsUpdate = true;
+    waveVideoTexture.needsUpdate = true;
 
 	renderer.render( scene, camera );
 }

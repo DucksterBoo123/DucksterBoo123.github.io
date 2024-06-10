@@ -44,6 +44,8 @@ renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
 const textureLoader = new THREE.TextureLoader();
+var me = textureLoader.load("assets/meDawg.png");
+me.colorSpace = THREE.SRGBColorSpace;
 
 const geometry = new THREE.BoxGeometry( 2.5, 2.5, 2.5 );
 //const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
@@ -61,7 +63,7 @@ const texture = [
         color : 0x000000
     }),
     new THREE.MeshBasicMaterial({
-        color : 0xFFFFFF
+        map: me,
     }),
     new THREE.MeshBasicMaterial({
         color : 0x000000
