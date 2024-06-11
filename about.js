@@ -90,17 +90,31 @@ let waveVideoScreen = new THREE.Mesh(waveVideoGeometry, waveVideoMaterial);
 waveVideo.play();
 scene.add(waveVideoScreen);
 
+let astroVideo = document.getElementById("astroVideo");
+let astroVideoTexture = new THREE.VideoTexture(astroVideo);
+astroVideoTexture.colorSpace = THREE.SRGBColorSpace;
+astroVideoTexture.magFilter = THREE.LinearFilter;
+astroVideoTexture.minFilter = THREE.LinearFilter;
+var astroVideoMaterial = new THREE.MeshBasicMaterial({
+    map: astroVideoTexture,
+    side: THREE.FrontSide,
+});
+let astroVideoGeometry = new THREE.PlaneGeometry(16, 9);
+let astroVideoScreen = new THREE.Mesh(astroVideoGeometry, astroVideoMaterial);
+astroVideo.play();
+scene.add(astroVideoScreen);
+
 const camYPoints = [0, -12, -28]
 
 function wheelFunction(event) {
 
-    if(event.deltaY < 0 && camera.position.y < 0)
+    if(event.deltaY > 0 && camera.position.y < 0)
     {
         camera.position.y += 1;
         console.log(camera.position.y);
     }
 
-    if(event.deltaY > 0 && camera.position.y > -28)
+    if(event.deltaY < 0 && camera.position.y > -37)
     {
         camera.position.y -= 1;
         console.log(camera.position.y);
@@ -116,9 +130,12 @@ function animate() {
 
     switchVideoScreen.position.y = -12.5;
     waveVideoScreen.position.y = -28.5;
+    astroVideoScreen.position.y = -37;
+
     switchVideoTexture.needsUpdate = true;
     carVideoTexture.needsUpdate = true;
     waveVideoTexture.needsUpdate = true;
+    astroVideoTexture.needsUpdate = true;
 
 	renderer.render( scene, camera );
 }
