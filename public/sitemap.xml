@@ -5,10 +5,10 @@
     <loc>/posts/bukc---whilton-mill-qualifiers/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/bukc---whilton-mill-test/</loc>
@@ -16,8 +16,18 @@
   </url><url>
     <loc>/about/</loc>
   </url><url>
+    <loc>/bookmarks/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/renders/</loc>
+  </url><url>
+    <loc>/bookmarks/artists/</loc>
+  </url><url>
+    <loc>/bookmarks/playlists/</loc>
+  </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/bookmarks/webpages/</loc>
   </url>
 </urlset>
