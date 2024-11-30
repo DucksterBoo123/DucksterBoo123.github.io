@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>DucksterBoo123&#39;s Webpage</title>
     <link>/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on DucksterBoo123&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -45,49 +45,169 @@
     </item>
     
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
       <description>&lt;p&gt;I am a 19 year old Mechanical Engineering undergrad studying at Brunel University of London.&lt;/p&gt;
-&lt;p&gt;I am interested in Motorsports, Kart Racing, Software Engineering and Music Production.&lt;/p&gt;
+&lt;p&gt;I am interested in Motorsport, Kart Racing, Software Engineering and Music Production.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;SODI, Rotax&lt;/li&gt;
 &lt;li&gt;C#, Java, JavaScript, HTML, CSS&lt;/li&gt;
 &lt;li&gt;Ableton, Reason, Logic Pro&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I am currently competing in the British Universities Karting Championship. I have prior experience racing in the 2023 Karting Race of Remembrance 4 Hour Endurance Race and wrestling for my local freestyle wrestling club in British Wrestling Association associated events.&lt;/p&gt;</description>
+&lt;p&gt;I am currently competing in the British Universities Karting Championship. I have prior experience: racing in the 2023 Karting Race of Remembrance 4 Hour Endurance Race, competeing in British Wrestling Association managed tournaments and playing for two school football teams (GK).&lt;/p&gt;</description>
       <content>&lt;p&gt;I am a 19 year old Mechanical Engineering undergrad studying at Brunel University of London.&lt;/p&gt;
-&lt;p&gt;I am interested in Motorsports, Kart Racing, Software Engineering and Music Production.&lt;/p&gt;
+&lt;p&gt;I am interested in Motorsport, Kart Racing, Software Engineering and Music Production.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;SODI, Rotax&lt;/li&gt;
 &lt;li&gt;C#, Java, JavaScript, HTML, CSS&lt;/li&gt;
 &lt;li&gt;Ableton, Reason, Logic Pro&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I am currently competing in the British Universities Karting Championship. I have prior experience racing in the 2023 Karting Race of Remembrance 4 Hour Endurance Race and wrestling for my local freestyle wrestling club in British Wrestling Association associated events.&lt;/p&gt;
-&lt;p&gt;I currently hold four accolades across Kart Racing and Competetion Wrestling.&lt;/p&gt;
+&lt;p&gt;I am currently competing in the British Universities Karting Championship. I have prior experience: racing in the 2023 Karting Race of Remembrance 4 Hour Endurance Race, competeing in British Wrestling Association managed tournaments and playing for two school football teams (GK).&lt;/p&gt;
+&lt;p&gt;I currently hold four accolades across Kart Racing and Freestyle Wrestling.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2x Podiums - 1st &amp;amp; 2nd (Karting)&lt;/li&gt;
 &lt;li&gt;1x Second in Weight Class (Wrestling)&lt;/li&gt;
 &lt;li&gt;1x Third in Weight Class (Wrestling)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Aside from racing and working on cars, I like to spend my time playing football as a centre-back or alternatively, my old position, goalkeeper. Having spent 4 years playing goalkeeper, switching to centre-back has been a new and interesting experience.&lt;/p&gt;
+&lt;p&gt;Aside from racing and working on cars, I like to spend my time playing football as a centre-back or alternatively, my old position, goalkeeper. Having spent 4 years playing keeper, switching to centre-back has been a refreshing experience.&lt;/p&gt;
 &lt;p&gt;My favourite Racing Drivers are:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Max Verstappen (Redbull Racing : F1)&lt;/li&gt;
-&lt;li&gt;Sean Gelael (Team WRT : WEC)&lt;/li&gt;
-&lt;li&gt;Valentino Rossi (Team WRT : GT3)&lt;/li&gt;
-&lt;li&gt;Marc Marquez (Ducati : MotoGP)&lt;/li&gt;
-&lt;li&gt;Daniel Ricciardo (Our hearts forever : Pulmonary System)&lt;/li&gt;
+&lt;li&gt;Max Verstappen (Redbull Racing | F1)&lt;/li&gt;
+&lt;li&gt;Sean Gelael (Team WRT | WEC)&lt;/li&gt;
+&lt;li&gt;Valentino Rossi (Team WRT | GT3)&lt;/li&gt;
+&lt;li&gt;Marc Marquez (Ducati | MotoGP)&lt;/li&gt;
+&lt;li&gt;Daniel Ricciardo (Our hearts forever)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;My favourite football players are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Adam Khan (Blackburn Rovers)&lt;/li&gt;
 &lt;li&gt;Alisson Becker (Liverpool)&lt;/li&gt;
-&lt;li&gt;Mo Salah (Liverpool)&lt;/li&gt;
+&lt;li&gt;Mohamed Salah (Liverpool)&lt;/li&gt;
 &lt;li&gt;Simon Mignolet (Club Brugge)&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>I used to cgi once upon a lockdown</title>
+      <link>/renders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/renders/</guid>
+      <description>&lt;p&gt;Renders from various blender projects I cba to finish&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/donut.png&#34;&gt;
+&lt;code&gt;Classic Donut&lt;/code&gt;
+&lt;img src=&#34;/tuscanroom.png&#34;&gt;
+&lt;code&gt;Tidiest Room in Tuscany&lt;/code&gt;
+&lt;img src=&#34;/subway.png&#34;&gt;
+&lt;code&gt;NY Subway&lt;/code&gt;
+&lt;img src=&#34;/porsche.png&#34;&gt;
+&lt;code&gt;Porsche 911II GT3 Car&lt;/code&gt;
+&lt;img src=&#34;/driftcar.png&#34;&gt;
+&lt;code&gt;Porsche 911 930 Drift Car&lt;/code&gt;
+&lt;img src=&#34;/r33.png&#34;&gt;
+&lt;code&gt;Nissan R33 Skyline Propaganda&lt;/code&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;Renders from various blender projects I cba to finish&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/donut.png&#34;&gt;
+&lt;code&gt;Classic Donut&lt;/code&gt;
+&lt;img src=&#34;/tuscanroom.png&#34;&gt;
+&lt;code&gt;Tidiest Room in Tuscany&lt;/code&gt;
+&lt;img src=&#34;/subway.png&#34;&gt;
+&lt;code&gt;NY Subway&lt;/code&gt;
+&lt;img src=&#34;/porsche.png&#34;&gt;
+&lt;code&gt;Porsche 911II GT3 Car&lt;/code&gt;
+&lt;img src=&#34;/driftcar.png&#34;&gt;
+&lt;code&gt;Porsche 911 930 Drift Car&lt;/code&gt;
+&lt;img src=&#34;/r33.png&#34;&gt;
+&lt;code&gt;Nissan R33 Skyline Propaganda&lt;/code&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>My Top Artists</title>
+      <link>/bookmarks/artists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bookmarks/artists/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;/joker2.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;/fred.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;/skepta.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;/jme.png&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP?si=VbYrUcJdSYSbHG85hR08vQ&#34;&gt;JOKER KAPSIZE&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe?si=LcZxuFgDSWq080e_W2BBdA&#34;&gt;FRED AGAIN..&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN?si=wCMcn__pRBa9weyzoQ8Mhw&#34;&gt;SKEPTA&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5?si=hFsiNqxnR8eCfJyUBQ6v0w&#34;&gt;JME&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Producer&lt;/td&gt;
+          &lt;td&gt;Producer&lt;/td&gt;
+          &lt;td&gt;Vocalist&lt;/td&gt;
+          &lt;td&gt;Vocalist&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      <content>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;/joker2.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;/fred.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;/skepta.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;/jme.png&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP?si=VbYrUcJdSYSbHG85hR08vQ&#34;&gt;JOKER KAPSIZE&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe?si=LcZxuFgDSWq080e_W2BBdA&#34;&gt;FRED AGAIN..&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN?si=wCMcn__pRBa9weyzoQ8Mhw&#34;&gt;SKEPTA&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5?si=hFsiNqxnR8eCfJyUBQ6v0w&#34;&gt;JME&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Producer&lt;/td&gt;
+          &lt;td&gt;Producer&lt;/td&gt;
+          &lt;td&gt;Vocalist&lt;/td&gt;
+          &lt;td&gt;Vocalist&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Playlists</title>
+      <link>/bookmarks/playlists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bookmarks/playlists/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/067RwaDAtd2fWqbMStikbM?si=6109f8be3dd44adb&#34;&gt;Tracks Listened to in 2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/32pYBGAFqPTeOsJdZxk6GX?si=ea4031b0cb6743ec&#34;&gt;Fastest Lap Energy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/4348Fru8ag0NOXx5thj3TZ?si=47b85cdd755d42a5&#34;&gt;140s for Grime&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/700WakJCEKpWipBFbHqRjC?si=a032fe88f2114a53&#34;&gt;The One True Song&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/067RwaDAtd2fWqbMStikbM?si=6109f8be3dd44adb&#34;&gt;Tracks Listened to in 2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/32pYBGAFqPTeOsJdZxk6GX?si=ea4031b0cb6743ec&#34;&gt;Fastest Lap Energy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/4348Fru8ag0NOXx5thj3TZ?si=47b85cdd755d42a5&#34;&gt;140s for Grime&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/700WakJCEKpWipBFbHqRjC?si=a032fe88f2114a53&#34;&gt;The One True Song&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Webpages</title>
+      <link>/bookmarks/webpages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bookmarks/webpages/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.github.com/DucksterBoo123&#34;&gt;My Github&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://www.github.com/DucksterBoo123&#34;&gt;My Github&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
