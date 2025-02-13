@@ -24,4 +24,3 @@ However, you only improve with experience and commitment. Definitely looking for
 ![](/EndME1.webp)
 ![](/EndME2.webp)
 ![](/EndME3.webp)
-![](/EndMEBallast.webp)
