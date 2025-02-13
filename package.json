@@ -1,0 +1,19 @@
+{
+  "name": "ducksite",
+  "version": "1.0.0",
+  "description": "my site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DucksterBoo123/DucksterBoo123.github.io.git"
+  },
+  "author": "DucksterBoo123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DucksterBoo123/DucksterBoo123.github.io/issues"
+  },
+  "homepage": "https://github.com/DucksterBoo123/DucksterBoo123.github.io#readme"
+}
