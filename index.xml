@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DucksterBoo123&#39;s Webpage</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on DucksterBoo123&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automotive Repair - N53B30A Oil Filter Housing and Oil Cooler Housing Gasket Replacement</title>
-      <link>//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/</link>
+      <link>/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/</guid>
+      <guid>/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/</guid>
       <description>&lt;h1 id=&#34;procedure&#34;&gt;Procedure&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-1-obtain-gaskets&#34;&gt;Step 1: Obtain Gaskets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-2-drain-fluids&#34;&gt;Step 2: Drain Fluids&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-3-remove-the-airbox&#34;&gt;Step 3: Remove Airbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-4-remove-intake-guide&#34;&gt;Step 4: Remove Intake Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-5-remove-oil-cooler-housing&#34;&gt;Step 5: Remove Oil Cooler Housing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-6-remove-oil-filter-housing&#34;&gt;Step 6: Remove Oil Filter Housing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-7-optional-clean-och--ofh&#34;&gt;Step 7 (Optional): Clean OCH &amp;amp; OFH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-8-replace-gaskets&#34;&gt;Step 8: Replace Gaskets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-9-rebuild&#34;&gt;Step 9: Rebuild&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-10-engine-oil-refill&#34;&gt;Step 10: Engine Oil Refill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-11-coolant-refill&#34;&gt;Step 11: Coolant Refill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-1-obtain-gaskets&#34;&gt;Step 1: Obtain Gaskets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-2-drain-fluids&#34;&gt;Step 2: Drain Fluids&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-3-remove-the-airbox&#34;&gt;Step 3: Remove Airbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-4-remove-intake-guide&#34;&gt;Step 4: Remove Intake Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-5-remove-oil-cooler-housing&#34;&gt;Step 5: Remove Oil Cooler Housing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-6-remove-oil-filter-housing&#34;&gt;Step 6: Remove Oil Filter Housing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-7-optional-clean-och--ofh&#34;&gt;Step 7 (Optional): Clean OCH &amp;amp; OFH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-8-replace-gaskets&#34;&gt;Step 8: Replace Gaskets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-9-rebuild&#34;&gt;Step 9: Rebuild&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-10-engine-oil-refill&#34;&gt;Step 10: Engine Oil Refill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-11-coolant-refill&#34;&gt;Step 11: Coolant Refill&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;step-1-obtain-gaskets&#34;&gt;Step 1: Obtain Gaskets&lt;/h1&gt;
 &lt;p&gt;It is advisable to purchase gaskets directly from the dealer as the cheap copies you see online tend to wear far quicker due to poor manufacturing techniques.&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;procedure&#34;&gt;Procedure&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-1-obtain-gaskets&#34;&gt;Step 1: Obtain Gaskets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-2-drain-fluids&#34;&gt;Step 2: Drain Fluids&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-3-remove-the-airbox&#34;&gt;Step 3: Remove Airbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-4-remove-intake-guide&#34;&gt;Step 4: Remove Intake Guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-5-remove-oil-cooler-housing&#34;&gt;Step 5: Remove Oil Cooler Housing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-6-remove-oil-filter-housing&#34;&gt;Step 6: Remove Oil Filter Housing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-7-optional-clean-och--ofh&#34;&gt;Step 7 (Optional): Clean OCH &amp;amp; OFH&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-8-replace-gaskets&#34;&gt;Step 8: Replace Gaskets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-9-rebuild&#34;&gt;Step 9: Rebuild&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-10-engine-oil-refill&#34;&gt;Step 10: Engine Oil Refill&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-11-coolant-refill&#34;&gt;Step 11: Coolant Refill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-1-obtain-gaskets&#34;&gt;Step 1: Obtain Gaskets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-2-drain-fluids&#34;&gt;Step 2: Drain Fluids&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-3-remove-the-airbox&#34;&gt;Step 3: Remove Airbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-4-remove-intake-guide&#34;&gt;Step 4: Remove Intake Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-5-remove-oil-cooler-housing&#34;&gt;Step 5: Remove Oil Cooler Housing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-6-remove-oil-filter-housing&#34;&gt;Step 6: Remove Oil Filter Housing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-7-optional-clean-och--ofh&#34;&gt;Step 7 (Optional): Clean OCH &amp;amp; OFH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-8-replace-gaskets&#34;&gt;Step 8: Replace Gaskets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-9-rebuild&#34;&gt;Step 9: Rebuild&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-10-engine-oil-refill&#34;&gt;Step 10: Engine Oil Refill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-11-coolant-refill&#34;&gt;Step 11: Coolant Refill&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;step-1-obtain-gaskets&#34;&gt;Step 1: Obtain Gaskets&lt;/h1&gt;
 &lt;p&gt;It is advisable to purchase gaskets directly from the dealer as the cheap copies you see online tend to wear far quicker due to poor manufacturing techniques.&lt;/p&gt;
@@ -50,68 +50,68 @@
 &lt;li&gt;11428637821 for the Oil Filter Housing Gasket&lt;/li&gt;
 &lt;li&gt;11428637820 for the Oil Cooler Housing Gasket&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/baggaskets.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/Dealer.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/baggaskets.png&#34;&gt;
+&lt;img src=&#34;/Dealer.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;step-2-drain-fluids&#34;&gt;Step 2: Drain Fluids&lt;/h1&gt;
 &lt;p&gt;As we will be interfering with the coolant and oil loops, it is best to drain the car beforehand to prevent making a mess and losing fluids.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/drain.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/drain.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-2a-remove-the-undertray&#34;&gt;STEP 2a: Remove the undertray&lt;/h2&gt;
 &lt;h2 id=&#34;step-2b-unscrew-the-radiator-drain-plug&#34;&gt;STEP 2b: Unscrew the Radiator Drain Plug&lt;/h2&gt;
 &lt;p&gt;Beneath the radiator on the right hand side is a small blue plastic screw that sits flush with the bottom of the radiator. That is the drain plug for the radiator. To unscrew it, I used the end of a small round spanner; a 10p coin will also do the trick.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/bluescrew.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/smallwrench.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/bluescrew.png&#34;&gt;
+&lt;img src=&#34;/smallwrench.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-2c-undo-oil-fill--oil-filter-cap&#34;&gt;STEP 2c: Undo Oil Fill &amp;amp; Oil Filter Cap&lt;/h2&gt;
 &lt;p&gt;Using an oil filter cap tool, remove the oil filter cap and oil filter as well as the oil fill cap. The oil filter along with the two o-rings from the cap can be disposed of.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/filterout.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/filterout.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-2d-unscrew-the-oil-drain-plug-and-drain-oil&#34;&gt;STEP 2d: Unscrew the Oil Drain Plug and Drain Oil&lt;/h2&gt;
 &lt;p&gt;Beneath the car the sump will have a bolt, unscrew this and dispose of the copper crush washer. Allow the engine oil to drain.&lt;/p&gt;
 &lt;h1 id=&#34;step-3-remove-airbox&#34;&gt;STEP 3: Remove Airbox&lt;/h1&gt;
 &lt;h2 id=&#34;step-3a-undo-bolts&#34;&gt;STEP 3a: Undo Bolts&lt;/h2&gt;
 &lt;p&gt;Undo the two 10mm bolts on the far right hand side of the airbox.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/airbox.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/airboxbolts.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/airboxbolts2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/airbox.png&#34;&gt;
+&lt;img src=&#34;/airboxbolts.png&#34;&gt;
+&lt;img src=&#34;/airboxbolts2.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-3b-unplug-maf-sensor&#34;&gt;STEP 3b: Unplug MAF Sensor&lt;/h2&gt;
 &lt;p&gt;Unplug the cable going in to the airbox from behind.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/maf.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/maf2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/maf.png&#34;&gt;
+&lt;img src=&#34;/maf2.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-3c-loosen-jubilee-clip-on-intake-boot&#34;&gt;STEP 3c: Loosen Jubilee Clip on Intake Boot&lt;/h2&gt;
 &lt;p&gt;Loosen the jubilee clip using a 6mm socket or wrench.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/boot.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/6mm.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/boot.png&#34;&gt;
+&lt;img src=&#34;/6mm.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-3d-remove-airbox&#34;&gt;STEP 3d: Remove Airbox&lt;/h2&gt;
 &lt;p&gt;It may need some persuasion and a bit of wiggling but it should come free.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/airboxout.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/airboxout.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;step-4-remove-intake-guide&#34;&gt;STEP 4: Remove Intake Guide&lt;/h1&gt;
 &lt;p&gt;The intake air guide is only held on by two T20 Torx screws from the front.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/intakeguide.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/t20.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/t20driver.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/intakeguidehand.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/intakeguideout.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/intakeguide.png&#34;&gt;
+&lt;img src=&#34;/t20.png&#34;&gt;
+&lt;img src=&#34;/t20driver.png&#34;&gt;
+&lt;img src=&#34;/intakeguidehand.png&#34;&gt;
+&lt;img src=&#34;/intakeguideout.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;step-5-remove-oil-cooler-housing&#34;&gt;STEP 5: Remove Oil Cooler Housing&lt;/h1&gt;
 &lt;h2 id=&#34;step-5a-remove-oil-cooler-hose&#34;&gt;STEP 5a: Remove Oil Cooler Hose&lt;/h2&gt;
 &lt;p&gt;Loosen the jubilee clip with a 6mm socket or wrench and carefully remove the hose, these hoses are prone to splitting.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/ochcoolanthose.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/ochcoolanthose.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-5b-remove-oil-cooler-housing-bolts&#34;&gt;STEP 5b: Remove Oil Cooler Housing Bolts&lt;/h2&gt;
 &lt;p&gt;There are three 10mm bolts that need to be unscrewed, two are above and visible, one is beneath. They are arranged in a scalene triangle pattern with the bottom bolt skewed to the left.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/ochbolts.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/ochboltsout.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/ochbolts.png&#34;&gt;
+&lt;img src=&#34;/ochboltsout.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-5c-remove-oil-cooler&#34;&gt;STEP 5c: Remove Oil Cooler&lt;/h2&gt;
 &lt;p&gt;This should just pop off, if it does not come off easily, pry gently from above.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/ochout.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/ochout.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;step-6-remove-oil-filter-housing&#34;&gt;STEP 6: Remove Oil Filter Housing&lt;/h1&gt;
 &lt;h2 id=&#34;step-6a-unplug-oil-pressure-sensor&#34;&gt;STEP 6a: Unplug Oil Pressure Sensor&lt;/h2&gt;
 &lt;p&gt;Remove the sensor by pushing down on the metal clip on the connector located next to the oil filter cap.&lt;/p&gt;
-&lt;p&gt;(can be seen in the picture appended to &lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-6b-remove-oil-filter-coolant-hose&#34;&gt;Step 6b&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(can be seen in the picture appended to &lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-6b-remove-oil-filter-coolant-hose&#34;&gt;Step 6b&lt;/a&gt;)&lt;/p&gt;
 &lt;h2 id=&#34;step-6b-remove-oil-filter-coolant-hose&#34;&gt;STEP 6b: Remove Oil Filter Coolant Hose&lt;/h2&gt;
 &lt;p&gt;Pry up on the wire clip and gently pull the hose off. They can be brittle so be careful during removal.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/ofhcoolanthose.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/ofhcoolanthose.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-6c-remove-mickey-mouse-flange&#34;&gt;STEP 6c: Remove Mickey Mouse Flange&lt;/h2&gt;
 &lt;p&gt;There are two 10mm bolts that hold the flange on, removed those and gently remove the flange, this part is notorious for being brittle and breaking.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/mickeyloose.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/mickeyoff.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/mickeybolts.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/mickeyloose.png&#34;&gt;
+&lt;img src=&#34;/mickeyoff.png&#34;&gt;
+&lt;img src=&#34;/mickeybolts.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;step-6d-undo-oil-filter-housing-bolts&#34;&gt;STEP 6d: Undo Oil Filter Housing Bolts&lt;/h2&gt;
 &lt;p&gt;There are three E10 bolts that hold on the Oil Filter Housing.
 They are located at:&lt;/p&gt;
@@ -121,17 +121,17 @@ They are located at:&lt;/p&gt;
 &lt;li&gt;Underneath front most bolt of intake manifold&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Gently remove the oil filter housing, pry carefully if needed.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/ofhofffar.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/ofhoffclose.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/ofhofffar.png&#34;&gt;
+&lt;img src=&#34;/ofhoffclose.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;step-7-optional-clean-och--ofh&#34;&gt;STEP 7 (Optional): Clean OCH &amp;amp; OFH&lt;/h1&gt;
 &lt;p&gt;This makes it easier to identify a new leak.&lt;/p&gt;
 &lt;h1 id=&#34;step-8-replace-gaskets&#34;&gt;STEP 8: Replace Gaskets&lt;/h1&gt;
 &lt;p&gt;Remove the old gaskets and set the new gaskets.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/ochold.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/ochnew.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/ofhnew.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/ochold.png&#34;&gt;
+&lt;img src=&#34;/ochnew.png&#34;&gt;
+&lt;img src=&#34;/ofhnew.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;step-9-rebuild&#34;&gt;STEP 9: Rebuild&lt;/h1&gt;
-&lt;p&gt;Repeat these steps in reverse order till &lt;a href=&#34;//localhost:1313/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-3-remove-the-airbox&#34;&gt;Step 3&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Repeat these steps in reverse order till &lt;a href=&#34;/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/#step-3-remove-the-airbox&#34;&gt;Step 3&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;step-10-engine-oil-refill&#34;&gt;STEP 10: Engine Oil Refill&lt;/h1&gt;
 &lt;h2 id=&#34;step-10a-drain-plug&#34;&gt;Step 10a: Drain Plug&lt;/h2&gt;
 &lt;p&gt;Put the new crush washer on the bolt and torque to 25nm.&lt;/p&gt;
@@ -149,10 +149,10 @@ They are located at:&lt;/p&gt;
     
     <item>
       <title>BMT - 3 Hour Endurance @ Daytona Milton Keynes (Sodikart)</title>
-      <link>//localhost:1313/posts/bmt---3-hour-endurance/</link>
+      <link>/posts/bmt---3-hour-endurance/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/bmt---3-hour-endurance/</guid>
+      <guid>/posts/bmt---3-hour-endurance/</guid>
       <description>&lt;p&gt;I raced, alongside 5 other drivers from Brunel Motorsport Team, in the final endurance race of the year held by Daytona at their Milton Keynes track.&lt;/p&gt;
 &lt;p&gt;The day took to the format of:&lt;/p&gt;
 &lt;ul&gt;
@@ -174,19 +174,19 @@ They are located at:&lt;/p&gt;
 &lt;p&gt;Our qualifying driver put us P8 in the Sodikart standings and P23 overall.&lt;/p&gt;
 &lt;p&gt;We finished the race P18 in the Sodikart standings and P33 overall. It was a difficult drive due to the wet weather conditions and with not many of us having much seat time (during the wet), being competitive whilst controlling the kart proved to be a challenge.&lt;/p&gt;
 &lt;p&gt;However, you only improve with experience and commitment. Definitely looking forward to the next endurance race with the team.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/EndME1.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/EndME2.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/EndME3.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/EndMEBallast.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/EndME1.png&#34;&gt;
+&lt;img src=&#34;/EndME2.png&#34;&gt;
+&lt;img src=&#34;/EndME3.png&#34;&gt;
+&lt;img src=&#34;/EndMEBallast.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>BUKC - Qualifiers</title>
-      <link>//localhost:1313/posts/bukc---whilton-mill-qualifiers/</link>
+      <link>/posts/bukc---whilton-mill-qualifiers/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/bukc---whilton-mill-qualifiers/</guid>
+      <guid>/posts/bukc---whilton-mill-qualifiers/</guid>
       <description>&lt;p&gt;After a successful test day, I was signed on to Brunel B, Brunel&amp;rsquo;s less experienced race team.&lt;/p&gt;
 &lt;p&gt;This time at Whilton Mill, we were there to race. The day took to the format of a 20 minute joint practice-qualifying session and then a 25 minute race. The results from practice were discarded as soon as the first 10 minutes were up and then the lap times would begin to count towards your qualifying stint. The qualification results were used to decide the starting grid order for the race. The results from the race would then determine which class your team would qualify for, assuming you qualified for the the championship&lt;/p&gt;</description>
       <content>&lt;p&gt;After a successful test day, I was signed on to Brunel B, Brunel&amp;rsquo;s less experienced race team.&lt;/p&gt;
@@ -196,18 +196,18 @@ They are located at:&lt;/p&gt;
 &lt;p&gt;Starting the race in P29 I was aiming for the low 20s, I knew it was possible. My qualifying position was unimpressive but I had track knowledge and the defence of KMag in Miami. On the first lap, I had made up 6 positions. This was great until I overdrove and spun out at Christmas corner, putting me in last place. I pushed on and made more positions and was back up to P26. Feeling confident, I tried for another overtake however this time I was pushed out wide heading in to a corner causing me to lock up and spin. The recovery was quicker however time was running out. I managed to make two overtakes before crossing the line in P28. A net positive finishing place but well below expectations.&lt;/p&gt;
 &lt;p&gt;Unfortunately, this was the second best result for our team and we were unable to qualify. In similar suit, Brunel A were unable to qualify after making huge positions for the team but ultimately losing them due to various issues.&lt;/p&gt;
 &lt;p&gt;Neither team qualified, this day was shit and for sure left us all feeling sore.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/ME1.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/ME2.png&#34;&gt;
-&lt;img src=&#34;//localhost:1313/ME3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/ME1.png&#34;&gt;
+&lt;img src=&#34;/ME2.png&#34;&gt;
+&lt;img src=&#34;/ME3.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>BUKC - Whilton Mill Test</title>
-      <link>//localhost:1313/posts/bukc---whilton-mill-test/</link>
+      <link>/posts/bukc---whilton-mill-test/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/bukc---whilton-mill-test/</guid>
+      <guid>/posts/bukc---whilton-mill-test/</guid>
       <description>&lt;p&gt;I took part in the first test day at Whilton Mill for the British Universities Karting Championship in preparation for competing with Brunel University of London for the championship later in the year.&lt;/p&gt;
 &lt;p&gt;The karts are powered by 2-Stroke Junior Rotax Max engines coupled with the BirelART rental chassis. The karts are owned by Club100 and are rented to the teams for use.  Club 100 modify the karts by fitting restrictor kits to the exhaust thus limiting the power output.&lt;/p&gt;</description>
       <content>&lt;p&gt;I took part in the first test day at Whilton Mill for the British Universities Karting Championship in preparation for competing with Brunel University of London for the championship later in the year.&lt;/p&gt;
@@ -220,10 +220,10 @@ They are located at:&lt;/p&gt;
     
     <item>
       <title>About Me</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;I am a 19 year old Mechanical Engineering undergrad studying at Brunel University of London.&lt;/p&gt;
 &lt;p&gt;I am interested in Motorsport, Kart Racing, Software Engineering and Music Production.&lt;/p&gt;
 &lt;ul&gt;
@@ -267,52 +267,52 @@ They are located at:&lt;/p&gt;
     
     <item>
       <title>I used to cgi once upon a lockdown</title>
-      <link>//localhost:1313/renders/</link>
+      <link>/renders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/renders/</guid>
+      <guid>/renders/</guid>
       <description>&lt;p&gt;Renders from various blender projects I cba to finish&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/donut.png&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;/donut.png&#34;&gt;
 &lt;code&gt;Classic Donut&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/tuscanroom.png&#34;&gt;
+&lt;img src=&#34;/tuscanroom.png&#34;&gt;
 &lt;code&gt;Tidiest Room in Tuscany&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/subway.png&#34;&gt;
+&lt;img src=&#34;/subway.png&#34;&gt;
 &lt;code&gt;NY Subway&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/porsche.png&#34;&gt;
+&lt;img src=&#34;/porsche.png&#34;&gt;
 &lt;code&gt;Porsche 911II GT3 Car&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/driftcar.png&#34;&gt;
+&lt;img src=&#34;/driftcar.png&#34;&gt;
 &lt;code&gt;Porsche 911 930 Drift Car&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/r33.png&#34;&gt;
+&lt;img src=&#34;/r33.png&#34;&gt;
 &lt;code&gt;Nissan R33 Skyline Propaganda&lt;/code&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;Renders from various blender projects I cba to finish&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/donut.png&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;/donut.png&#34;&gt;
 &lt;code&gt;Classic Donut&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/tuscanroom.png&#34;&gt;
+&lt;img src=&#34;/tuscanroom.png&#34;&gt;
 &lt;code&gt;Tidiest Room in Tuscany&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/subway.png&#34;&gt;
+&lt;img src=&#34;/subway.png&#34;&gt;
 &lt;code&gt;NY Subway&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/porsche.png&#34;&gt;
+&lt;img src=&#34;/porsche.png&#34;&gt;
 &lt;code&gt;Porsche 911II GT3 Car&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/driftcar.png&#34;&gt;
+&lt;img src=&#34;/driftcar.png&#34;&gt;
 &lt;code&gt;Porsche 911 930 Drift Car&lt;/code&gt;
-&lt;img src=&#34;//localhost:1313/r33.png&#34;&gt;
+&lt;img src=&#34;/r33.png&#34;&gt;
 &lt;code&gt;Nissan R33 Skyline Propaganda&lt;/code&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>My Top Artists</title>
-      <link>//localhost:1313/bookmarks/artists/</link>
+      <link>/bookmarks/artists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/bookmarks/artists/</guid>
+      <guid>/bookmarks/artists/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;//localhost:1313/joker2.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;//localhost:1313/fred.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;//localhost:1313/skepta.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;//localhost:1313/jme.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;/joker2.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;/fred.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;/skepta.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;/jme.png&#34;&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -333,10 +333,10 @@ They are located at:&lt;/p&gt;
       <content>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;//localhost:1313/joker2.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;//localhost:1313/fred.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;//localhost:1313/skepta.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;//localhost:1313/jme.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;/joker2.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;/fred.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;/skepta.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;/jme.png&#34;&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -359,10 +359,10 @@ They are located at:&lt;/p&gt;
     
     <item>
       <title>Playlists</title>
-      <link>//localhost:1313/bookmarks/playlists/</link>
+      <link>/bookmarks/playlists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/bookmarks/playlists/</guid>
+      <guid>/bookmarks/playlists/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/067RwaDAtd2fWqbMStikbM?si=6109f8be3dd44adb&#34;&gt;Tracks Listened to in 2024&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/32pYBGAFqPTeOsJdZxk6GX?si=ea4031b0cb6743ec&#34;&gt;Fastest Lap Energy&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/1ATU5l11b6ETcYHLVUc3k4?si=ec6be79b01174efe&#34;&gt;Grime&lt;/a&gt;&lt;/p&gt;
@@ -376,10 +376,10 @@ They are located at:&lt;/p&gt;
     
     <item>
       <title>Webpages</title>
-      <link>//localhost:1313/bookmarks/webpages/</link>
+      <link>/bookmarks/webpages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/bookmarks/webpages/</guid>
+      <guid>/bookmarks/webpages/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.github.com/DucksterBoo123&#34;&gt;My Github&lt;/a&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;&lt;a href=&#34;https://www.github.com/DucksterBoo123&#34;&gt;My Github&lt;/a&gt;&lt;/p&gt;
 </content>

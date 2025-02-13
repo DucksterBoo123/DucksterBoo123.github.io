@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bookmarks on DucksterBoo123&#39;s Webpage</title>
-    <link>//localhost:1313/bookmarks/</link>
+    <link>/bookmarks/</link>
     <description>Recent content in Bookmarks on DucksterBoo123&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Top Artists</title>
-      <link>//localhost:1313/bookmarks/artists/</link>
+      <link>/bookmarks/artists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/bookmarks/artists/</guid>
+      <guid>/bookmarks/artists/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;//localhost:1313/joker2.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;//localhost:1313/fred.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;//localhost:1313/skepta.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;//localhost:1313/jme.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;/joker2.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;/fred.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;/skepta.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;/jme.png&#34;&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -39,10 +39,10 @@
       <content>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;//localhost:1313/joker2.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;//localhost:1313/fred.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;//localhost:1313/skepta.png&#34;&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;//localhost:1313/jme.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JOKER KAPSIZE&#34; src=&#34;/joker2.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;FRED AGAIN&#34; src=&#34;/fred.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;SKEPTA&#34; src=&#34;/skepta.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;JME&#34; src=&#34;/jme.png&#34;&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>Playlists</title>
-      <link>//localhost:1313/bookmarks/playlists/</link>
+      <link>/bookmarks/playlists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/bookmarks/playlists/</guid>
+      <guid>/bookmarks/playlists/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/067RwaDAtd2fWqbMStikbM?si=6109f8be3dd44adb&#34;&gt;Tracks Listened to in 2024&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/32pYBGAFqPTeOsJdZxk6GX?si=ea4031b0cb6743ec&#34;&gt;Fastest Lap Energy&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://open.spotify.com/playlist/1ATU5l11b6ETcYHLVUc3k4?si=ec6be79b01174efe&#34;&gt;Grime&lt;/a&gt;&lt;/p&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>Webpages</title>
-      <link>//localhost:1313/bookmarks/webpages/</link>
+      <link>/bookmarks/webpages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/bookmarks/webpages/</guid>
+      <guid>/bookmarks/webpages/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.github.com/DucksterBoo123&#34;&gt;My Github&lt;/a&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;&lt;a href=&#34;https://www.github.com/DucksterBoo123&#34;&gt;My Github&lt;/a&gt;&lt;/p&gt;
 </content>

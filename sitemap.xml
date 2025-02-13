@@ -2,32 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/bukc---whilton-mill-qualifiers/</loc>
+    <loc>/posts/automotive-repair---n53b30a-oil-filter-housing-and-oil-cooler/</loc>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/bmt---3-hour-endurance/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/bukc---whilton-mill-qualifiers/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/bukc---whilton-mill-test/</loc>
+    <loc>/posts/bukc---whilton-mill-test/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/bookmarks/</loc>
+    <loc>/bookmarks/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/renders/</loc>
+    <loc>/renders/</loc>
   </url><url>
-    <loc>//localhost:1313/bookmarks/artists/</loc>
+    <loc>/bookmarks/artists/</loc>
   </url><url>
-    <loc>//localhost:1313/bookmarks/playlists/</loc>
+    <loc>/bookmarks/playlists/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/bookmarks/webpages/</loc>
+    <loc>/bookmarks/webpages/</loc>
   </url>
 </urlset>
