@@ -21,7 +21,7 @@ We finished the race P18 in the Sodikart standings and P33 overall. It was a dif
 
 However, you only improve with experience and commitment. Definitely looking forward to the next endurance race with the team.
 
-![](/EndME1.png)
-![](/EndME2.png)
-![](/EndME3.png)
-![](/EndMEBallast.png)
+![](/EndME1.webp)
+![](/EndME2.webp)
+![](/EndME3.webp)
+![](/EndMEBallast.webp)

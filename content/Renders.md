@@ -4,15 +4,15 @@ title: I used to cgi once upon a lockdown
 
 Renders from various blender projects I cba to finish
 
-![](/donut.png)
+![](/donut.webp)
 `Classic Donut`
-![](/tuscanroom.png)
+![](/tuscanroom.webp)
 `Tidiest Room in Tuscany`
-![](/subway.png)
+![](/subway.webp)
 `NY Subway`
-![](/porsche.png)
+![](/porsche.webp)
 `Porsche 911II GT3 Car` 
-![](/driftcar.png)
+![](/driftcar.webp)
 `Porsche 911 930 Drift Car`
-![](/r33.png)
+![](/r33.webp)
 `Nissan R33 Skyline Propaganda`

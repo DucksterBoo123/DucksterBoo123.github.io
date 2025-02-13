@@ -16,6 +16,6 @@ Unfortunately, this was the second best result for our team and we were unable t
 
 Neither team qualified, this day was shit and for sure left us all feeling sore.
 
-![](/ME1.png)
-![](/ME2.png)
-![](/ME3.png)
+![](/ME1.webp)
+![](/ME2.webp)
+![](/ME3.webp)

@@ -26,14 +26,14 @@ For the N53B30A we are looking at part numbers:
 - 11428637821 for the Oil Filter Housing Gasket
 - 11428637820 for the Oil Cooler Housing Gasket
 
-![](/baggaskets.png)
-![](/Dealer.png)
+![](/baggaskets.webp)
+![](/Dealer.webp)
 
 # Step 2: Drain Fluids
 
 As we will be interfering with the coolant and oil loops, it is best to drain the car beforehand to prevent making a mess and losing fluids.
 
-![](/drain.png)
+![](/drain.webp)
 
 ## STEP 2a: Remove the undertray
 
@@ -41,14 +41,14 @@ As we will be interfering with the coolant and oil loops, it is best to drain th
 
 Beneath the radiator on the right hand side is a small blue plastic screw that sits flush with the bottom of the radiator. That is the drain plug for the radiator. To unscrew it, I used the end of a small round spanner; a 10p coin will also do the trick.
 
-![](/bluescrew.png)
-![](/smallwrench.png)
+![](/bluescrew.webp)
+![](/smallwrench.webp)
 
 ## STEP 2c: Undo Oil Fill & Oil Filter Cap
 
 Using an oil filter cap tool, remove the oil filter cap and oil filter as well as the oil fill cap. The oil filter along with the two o-rings from the cap can be disposed of.
 
-![](/filterout.png)
+![](/filterout.webp)
 
 ## STEP 2d: Unscrew the Oil Drain Plug and Drain Oil
 
@@ -60,39 +60,39 @@ Beneath the car the sump will have a bolt, unscrew this and dispose of the coppe
 
 Undo the two 10mm bolts on the far right hand side of the airbox.
 
-![](/airbox.png)
-![](/airboxbolts.png)
-![](/airboxbolts2.png)
+![](/airbox.webp)
+![](/airboxbolts.webp)
+![](/airboxbolts2.webp)
 
 ## STEP 3b: Unplug MAF Sensor
 
 Unplug the cable going in to the airbox from behind.
 
-![](/maf.png)
-![](/maf2.png)
+![](/maf.webp)
+![](/maf2.webp)
 
 ## STEP 3c: Loosen Jubilee Clip on Intake Boot
 
 Loosen the jubilee clip using a 6mm socket or wrench.
 
-![](/boot.png)
-![](/6mm.png)
+![](/boot.webp)
+![](/6mm.webp)
 
 ## STEP 3d: Remove Airbox
 
 It may need some persuasion and a bit of wiggling but it should come free.
 
-![](/airboxout.png)
+![](/airboxout.webp)
 
 # STEP 4: Remove Intake Guide
 
 The intake air guide is only held on by two T20 Torx screws from the front.
 
-![](/intakeguide.png)
-![](/t20.png)
-![](/t20driver.png)
-![](/intakeguidehand.png)
-![](/intakeguideout.png)
+![](/intakeguide.webp)
+![](/t20.webp)
+![](/t20driver.webp)
+![](/intakeguidehand.webp)
+![](/intakeguideout.webp)
 
 # STEP 5: Remove Oil Cooler Housing
 
@@ -100,20 +100,20 @@ The intake air guide is only held on by two T20 Torx screws from the front.
 
 Loosen the jubilee clip with a 6mm socket or wrench and carefully remove the hose, these hoses are prone to splitting.
 
-![](/ochcoolanthose.png)
+![](/ochcoolanthose.webp)
 
 ## STEP 5b: Remove Oil Cooler Housing Bolts
 
 There are three 10mm bolts that need to be unscrewed, two are above and visible, one is beneath. They are arranged in a scalene triangle pattern with the bottom bolt skewed to the left.
 
-![](/ochbolts.png)
-![](/ochboltsout.png)
+![](/ochbolts.webp)
+![](/ochboltsout.webp)
 
 ## STEP 5c: Remove Oil Cooler
 
 This should just pop off, if it does not come off easily, pry gently from above.
 
-![](/ochout.png)
+![](/ochout.webp)
 
 # STEP 6: Remove Oil Filter Housing
 
@@ -127,15 +127,15 @@ Remove the sensor by pushing down on the metal clip on the connector located nex
 
 Pry up on the wire clip and gently pull the hose off. They can be brittle so be careful during removal.
 
-![](/ofhcoolanthose.png)
+![](/ofhcoolanthose.webp)
 
 ## STEP 6c: Remove Mickey Mouse Flange
 
 There are two 10mm bolts that hold the flange on, removed those and gently remove the flange, this part is notorious for being brittle and breaking.
 
-![](/mickeyloose.png)
-![](/mickeyoff.png)
-![](/mickeybolts.png)
+![](/mickeyloose.webp)
+![](/mickeyoff.webp)
+![](/mickeybolts.webp)
 
 ## STEP 6d: Undo Oil Filter Housing Bolts
 
@@ -148,8 +148,8 @@ They are located at:
 
 Gently remove the oil filter housing, pry carefully if needed.
 
-![](/ofhofffar.png)
-![](/ofhoffclose.png)
+![](/ofhofffar.webp)
+![](/ofhoffclose.webp)
 
 # STEP 7 (Optional): Clean OCH & OFH
 
@@ -159,9 +159,9 @@ This makes it easier to identify a new leak.
 
 Remove the old gaskets and set the new gaskets.
 
-![](/ochold.png)
-![](/ochnew.png)
-![](/ofhnew.png)
+![](/ochold.webp)
+![](/ochnew.webp)
+![](/ofhnew.webp)
 
 # STEP 9: Rebuild
 
